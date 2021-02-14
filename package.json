@@ -2,7 +2,7 @@
   "name": "shubh.codes",
   "private": false,
   "description": "Static site available at https://shubh.codes",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "license": "MIT",
   "author": "Shubhanshu Aggarwal <shubhanshuworks@gmail.com>",
   "scripts": {
@@ -15,7 +15,8 @@
     "postinstall": "husky install",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "gatsby": "^2.32.3",
@@ -46,7 +47,8 @@
     "gatsby-cli": "^2.19.1",
     "gatsby-plugin-eslint": "^3.0.0",
     "husky": "^5.0.9",
-    "prettier": "2.2.1"
+    "prettier": "2.2.1",
+    "semantic-release": "^17.3.9"
   },
   "keywords": [
     "gatsby",
