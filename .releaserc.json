@@ -15,7 +15,7 @@
       {
         "assets": [
           {
-            "path": "public/**",
+            "path": "public",
             "name": "shubh.codes-${nextRelease.gitTag}",
             "label": "shubh.codes ${nextRelease.gitTag} distribution"
           }
