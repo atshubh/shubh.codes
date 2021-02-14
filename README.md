@@ -1,4 +1,4 @@
-# shubh.codes [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+# shubh.codes [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![Github package version](https://img.shields.io/github/package-json/v/atshubh/shubh.codes)
 
 :wave: Hi , I am Shubh and this is the repo holding the code of [shubh.codes](https://shubh.codes) created using [Gatsby](https://gatsby.com) and hosted using [Github Pages](https://pages.github.com)
 
