@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/atshubh/shubh.codes/compare/v1.0.1...v1.0.2) (2021-02-14)
+
+
+### Bug Fixes
+
+* **semantic-release:** changed npm pkgRoot ([b2c489b](https://github.com/atshubh/shubh.codes/commit/b2c489b9a5fbc7668b04d57d881be53f8cae9129))
+* **semantic-release:** fix in the release script ([db85b8c](https://github.com/atshubh/shubh.codes/commit/db85b8c1ee327145a617f676e657af65f600d2d3))
+
 ## [1.0.1](https://github.com/atshubh/shubh.codes/compare/v1.0.0...v1.0.1) (2021-02-14)
 
 
