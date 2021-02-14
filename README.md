@@ -2,6 +2,8 @@
 
 :wave: Hi , I am Shubh and this is the repo holding the code of [shubh.codes](https://shubh.codes) created using [Gatsby](https://gatsby.com) and hosted using [Github Pages](https://pages.github.com)
 
+![image](https://user-images.githubusercontent.com/55213088/107886825-4ac16600-6efa-11eb-8be4-691d49279fde.png)
+
 # :toolbox: Using the Repo
 
 1. Make sure that you have [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/) installed
