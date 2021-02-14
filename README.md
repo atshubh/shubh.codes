@@ -1,4 +1,8 @@
-# shubh.codes [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![Github package version](https://img.shields.io/github/package-json/v/atshubh/shubh.codes)
+# shubh.codes
+
+![Github package version](https://img.shields.io/github/package-json/v/atshubh/shubh.codes)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 :wave: Hi , I am Shubh and this is the repo holding the code of [shubh.codes](https://shubh.codes) created using [Gatsby](https://gatsby.com) and hosted using [Github Pages](https://pages.github.com)
 
