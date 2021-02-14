@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/atshubh/shubh.codes/compare/v1.0.3...v1.0.4) (2021-02-14)
+
+
+### Bug Fixes
+
+* **gh-pages:** trying another fix for gh-pages fail ([0e0e2fe](https://github.com/atshubh/shubh.codes/commit/0e0e2fe64a7e5931a9105e47b58bb90a9e3a783f))
+
 ## [1.0.3](https://github.com/atshubh/shubh.codes/compare/v1.0.2...v1.0.3) (2021-02-14)
 
 
