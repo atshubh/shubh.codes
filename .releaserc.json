@@ -4,14 +4,20 @@
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
     "@semantic-release/changelog",
-
+    [
+      "@semantic-release/npm",
+      {
+        "npmPublish": false,
+        "pkgRoot": "public"
+      }
+    ],
     [
       "@semantic-release/github",
       {
         "assets": [
           {
             "path": "public/**",
-            "name": "shubh-codes-${nextRelease.gitTag}",
+            "name": "shubh.codes-${nextRelease.gitTag}",
             "label": "shubh.codes ${nextRelease.gitTag} distribution"
           }
         ]

@@ -1,6 +1,6 @@
 {
   "name": "shubh.codes",
-  "private": false,
+  "private": true,
   "description": "Static site available at https://shubh.codes",
   "version": "0.0.0-development",
   "license": "MIT",
@@ -13,7 +13,7 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "lint": "eslint \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "postinstall": "husky install",
-    "publish": "gatsby build --prefix-paths && gh-pages -d public -b github-pages",
+    "publish": "gh-pages -d public -b github-pages",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
