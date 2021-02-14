@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/atshubh/shubh.codes/compare/v1.0.2...v1.0.3) (2021-02-14)
+
+
+### Bug Fixes
+
+* **github-pages:** fix for pages not deploying ([7a0c15c](https://github.com/atshubh/shubh.codes/commit/7a0c15c0e87061ec6b90bd16cb78e68f8638db56))
+
 ## [1.0.2](https://github.com/atshubh/shubh.codes/compare/v1.0.1...v1.0.2) (2021-02-14)
 
 
