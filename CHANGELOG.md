@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/atshubh/shubh.codes/compare/v1.0.4...v1.0.5) (2021-02-14)
+
+
+### Bug Fixes
+
+* **release:** trying another fix for gh-pages deploy ([d6f4978](https://github.com/atshubh/shubh.codes/commit/d6f4978b0e94e796be534230c69b3262d44232c1))
+
 ## [1.0.4](https://github.com/atshubh/shubh.codes/compare/v1.0.3...v1.0.4) (2021-02-14)
 
 
