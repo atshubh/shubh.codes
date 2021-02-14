@@ -17,12 +17,12 @@
           {
             "path": "release/build.tar.gz",
             "name": "shubh.codes-${nextRelease.gitTag}.tar.gz",
-            "label": "shubh.codes ${nextRelease.gitTag} tar distribution"
+            "label": "Build (tar.gz)"
           },
           {
             "path": "release/build.zip",
             "name": "shubh.codes-${nextRelease.gitTag}.zip",
-            "label": "shubh.codes ${nextRelease.gitTag} tar distribution"
+            "label": "Build (zip)"
           }
         ]
       }

@@ -14,7 +14,7 @@
     "lint": "eslint \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "postinstall": "husky install",
     "deploy": "npm run build && npm run deploy.only",
-    "deploy.only": "gh-pages -d public -b github-pages",
+    "deploy.only": "gh-pages -d public -b github-pages -r https://$GITHUB_TOKEN@github.com/atshubh/shubh.codes.git",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
