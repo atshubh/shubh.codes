@@ -15,9 +15,14 @@
       {
         "assets": [
           {
-            "path": "public",
-            "name": "shubh.codes-${nextRelease.gitTag}",
-            "label": "shubh.codes ${nextRelease.gitTag} distribution"
+            "path": "release/build.tar.gz",
+            "name": "shubh.codes-${nextRelease.gitTag}.tar.gz",
+            "label": "shubh.codes ${nextRelease.gitTag} tar distribution"
+          },
+          {
+            "path": "release/build.zip",
+            "name": "shubh.codes-${nextRelease.gitTag}.zip",
+            "label": "shubh.codes ${nextRelease.gitTag} tar distribution"
           }
         ]
       }
