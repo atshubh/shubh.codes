@@ -31,4 +31,7 @@ jobs:
           GH_PAGES_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
         run: npx semantic-release
       - name: Deploy to Github Pages
-        run: npm run deploy.only
+        uses: JamesIves/github-pages-deploy-action@4.0.0
+        with:
+          branch: gh-pages
+          folder: public
