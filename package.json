@@ -43,6 +43,7 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^1.7.0",
     "eslint-webpack-plugin": "^2.5.1",
+    "gatsby-cli": "^2.19.1",
     "gatsby-plugin-eslint": "^3.0.0",
     "husky": "^5.0.9",
     "prettier": "2.2.1"
