@@ -27,6 +27,12 @@
         ]
       }
     ],
+    [
+      "@semantic-release/exec",
+      {
+        "publishCmd": "npx gh-pages -d public -b gh-pages -r https://github.com/atshubh/shubh.codes.git"
+      }
+    ],
     "@semantic-release/git"
   ]
 }

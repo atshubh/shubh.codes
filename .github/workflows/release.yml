@@ -19,19 +19,17 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build
+        run: npm run build
+      - name: Prepare for Release
         run: |
-          npm run build
           mkdir release
           tar -cvzf release/build.tar.gz public
           zip -r release/build.zip public
+          git config user.name github-actions
+          git config user.email github-actions@github.com
       - name: Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GH_PAGES_TOKEN: ${{ secrets.GH_PAGES_TOKEN }}
         run: npx semantic-release
-      - name: Deploy to Github Pages
-        uses: JamesIves/github-pages-deploy-action@4.0.0
-        with:
-          branch: gh-pages
-          folder: public
