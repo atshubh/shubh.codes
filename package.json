@@ -2,7 +2,7 @@
   "name": "shubh.codes",
   "private": true,
   "description": "Static site available at https://shubh.codes",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "license": "MIT",
   "author": "Shubhanshu Aggarwal <shubhanshuworks@gmail.com>",
   "scripts": {

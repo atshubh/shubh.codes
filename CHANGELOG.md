@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/atshubh/shubh.codes/compare/v1.0.7...v1.0.8) (2021-02-15)
+
+
+### Bug Fixes
+
+* **release:** added token to fix auth error ([2f68ee3](https://github.com/atshubh/shubh.codes/commit/2f68ee3f47beac317e5625cb50a7e809db48ef9d))
+
 ## [1.0.7](https://github.com/atshubh/shubh.codes/compare/v1.0.6...v1.0.7) (2021-02-15)
 
 
