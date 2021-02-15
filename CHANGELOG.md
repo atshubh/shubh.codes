@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/atshubh/shubh.codes/compare/v1.0.5...v1.0.6) (2021-02-14)
+
+
+### Bug Fixes
+
+* **CNAME:** added CNAME file ([58bef90](https://github.com/atshubh/shubh.codes/commit/58bef9089e412b341a426d8aab8817938abe2d2f))
+
 ## [1.0.5](https://github.com/atshubh/shubh.codes/compare/v1.0.4...v1.0.5) (2021-02-14)
 
 
